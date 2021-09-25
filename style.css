@@ -136,14 +136,13 @@ padding: 2vw;
 }
 .user h1{
     color: #fbad18;
-    float: right;
-    font-weight: 900;
-    
+    padding-left:10vw;
+    margin-top: -3.5vw;
 }
 .user p{
     color: #fbad18;
-    float: right;
-    font-weight: 900;
+    padding-left:8vw;
+    margin-top: 1vw;
 }
 .winning{
 background-color: #282829;
